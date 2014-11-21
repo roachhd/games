@@ -18,13 +18,12 @@ harmony:
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   Harmony is a free responsive jekyll theme by Gayan Virajith
-   and Maheshika Lakmali. Sourced on Github - 
-   https://github.com/roavhhd/harmony
+   This is a site to display and explain the games I've made and designed Sourced on Github - 
+   https://github.com/roavhhd/games
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: katieball@roachhd.com
+    name: Katie Ball
+    email: Katie@roachhd.com
     url: http://roachhd.github.io
 
   # Google Analytics key, leave blank to ignore
