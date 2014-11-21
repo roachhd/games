@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lil' Mads on Windows Store"
-date:   2014-08-19 23:56:45
+date:   2014-04-24 23:56:45
 description: Lil Mads and the Gold Skull has been released on the Windows Store
 categories: blog
 permalink: lil-mads-windows-store
