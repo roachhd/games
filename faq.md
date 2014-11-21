@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Help / FAQ
+permalink: /faq/
+
 ---
 
 How to play Panda Love?
