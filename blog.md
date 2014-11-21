@@ -24,6 +24,6 @@ layout: default
   		{% endfor %}
 	</div>
 	<div class="post-footer">
-		<div class="column-full"><a href="{{ '/blog.html' | prepend: site.baseurl | prepend: site.url }}">Blog </a></div>
+		<div class="column-full"><a href="{{ '/blog-archive | prepend: site.baseurl | prepend: site.url }}">Blog Archive </a></div>
 	</div>
 </div>
