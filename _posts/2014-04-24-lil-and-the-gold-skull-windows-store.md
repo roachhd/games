@@ -11,92 +11,26 @@ Lil' Mads & The Gold Skull has been released on the Windows Store. See below for
 
 ---
 
-
 [Source](http://apps.microsoft.com/windows/en-us/app/lil-mads-and-the-gold-skull/f6754c54-a91e-4f39-80d0-16e8039f12ff "Permalink to ")
-
-# 
-
 [ ![Windows][1] ][2]
 
-![][3]
-
 # Lil Mads and the Gold Skull
-
-[ ![Logo][4] ][5]
-
-Free
-
-3
-
+Price: Free
 Published by Roach Haus
-
 Category: Games / Kids
-
 Approximate size: 4.6 MB
-
 Age rating: 3+
-
 Get Windows 8.1 to run this app. [Learn more][6]
 ![][7]
 [ ][8] [ ][9]
 [ ![Lil Mads and the Gold Skull screen shot 0][10] ][11] [ ![Lil Mads and the Gold Skull screen shot 1][12] ][13] [ ![Lil Mads and the Gold Skull screen shot 2][14] ][15] [ ![Lil Mads and the Gold Skull screen shot 3][16] ][17] [ ![Lil Mads and the Gold Skull screen shot 4][18] ][19] [ ![Lil Mads and the Gold Skull screen shot 5][20] ][21] [ ![Lil Mads and the Gold Skull screen shot 6][22] ][23] [ ![Lil Mads and the Gold Skull screen shot 7][24] ][25] [ ![Lil Mads and the Gold Skull screen shot 8][26] ][27]
 
 ## Description
-
-The adventure continues!
-Lil' Mads, a girl who loves to collect ancient artifacts, has been running from the gigantic boulder for so long that the cave has frozen over.
-
-Join Mads on all new frosty levels with more enemies and all new booby traps.
-
-Can you escape the cave?
-
-*****Bonus mini-game*****
-Cruise or hoon off in Lil' Mads jeep and save the gold skulls, but watch out for those bumps!
-
-The adventure is starting! Meet Lil' Mads, a girl who loves to collect ancient artifacts. Mads has to collect 16 gold skulls in a cave full of booby-traps! And what's worse, there is a gigantic rock that thunders after Mad's!
-
-Can you escape the cave??
-
-[Show more][28]
-
-![Early Childhood][29]
-
-Content rating: [Early Childhood][30]
-
-## Features
-
-* Fun adventure game
-
-* great for kids
-
-* no ads or pop-ups
-
-* cute graphics
-
-* auto-runner
-
-* multiple levels
-
-[Show more][28]
-
-Details
-
-## Notes
-
-The adventure continues!
-Lil' Mads, a girl who loves to collect ancient artifacts, has been running from the gigantic boulder for so long that the cave has frozen over.
-
-Join Mads on all new frosty levels with more enemies and all new booby traps.
-Can you escape the cave?
-
-*****Bonus mini-game*****
 Cruise or hoon off in Lil' Mads jeep and save the gold skulls, but watch out for those bumps!
 
 The adventure is starting! Meet Lil' Mads, a girl who loves to collect ancient artifacts. Mads has to collect 16 gold skulls in a cave full of booby-traps! And what's worse, there is a gigantic rock that thunders after Mad's!
 
 Can you escape the cave?
-
-
 
 update v 2.0.1.5
 Join Mads on all new frosty levels with more enemies and all new booby traps. Can you escape the cave? Bonus mini-game, cruise off in Lil Mads jeep, but watch out for those hills!
@@ -107,7 +41,6 @@ Join Mads on all new frosty levels with more enemies and all new booby traps. Ca
 * new enemies
 * new booby-traps
 * winter make-over to the cave
-*
 * updated home page
 * updated how to
 * updated info page
@@ -119,14 +52,24 @@ Coming Soon
 * login to play against your friends
 * get new outfits for Mads
 * leaderboard
-* New levels "Enter the Dragon Cave"
+* New levels "Enter the Dragon Cave"  
 
-[Show more][28]
+
+![Early Childhood][29]
+
+Content rating: [Early Childhood][30]
+
+## Features
+
+* Fun adventure game
+* great for kids
+* no ads or pop-ups
+* cute graphics
+* auto-runner
+* multiple levels
 
 ## Learn more
-
 [Lil Mads and the Gold Skull website][32]
-
 [Lil Mads and the Gold Skull support][33]
 
 ## Additional terms
