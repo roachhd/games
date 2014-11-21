@@ -28,30 +28,17 @@ Free
 
 3
 
-Published by
+Published by Roach Haus
 
-Roach Haus
+Category: Games / Kids
 
-Roach Haus 2014
+Approximate size: 4.6 MB
 
-Category
-
-Games / Kids
-
-Approximate size
-
-4.6 MB
-
-Age rating
-
-3+
+Age rating: 3+
 
 Get Windows 8.1 to run this app. [Learn more][6]
-
 ![][7]
-
 [ ][8] [ ][9]
-
 [ ![Lil Mads and the Gold Skull screen shot 0][10] ][11] [ ![Lil Mads and the Gold Skull screen shot 1][12] ][13] [ ![Lil Mads and the Gold Skull screen shot 2][14] ][15] [ ![Lil Mads and the Gold Skull screen shot 3][16] ][17] [ ![Lil Mads and the Gold Skull screen shot 4][18] ][19] [ ![Lil Mads and the Gold Skull screen shot 5][20] ][21] [ ![Lil Mads and the Gold Skull screen shot 6][22] ][23] [ ![Lil Mads and the Gold Skull screen shot 7][24] ][25] [ ![Lil Mads and the Gold Skull screen shot 8][26] ][27]
 
 ## Description
@@ -136,24 +123,6 @@ Coming Soon
 
 [Show more][28]
 
-## Languages
-
-English (United States)
-
-English (United States)
-
-[Show all languages][31]
-
-## Supported processors
-
-x86, x64, ARM
-
-## System requirements
-
-* min 128RAM
-
-[Show more][28]
-
 ## Learn more
 
 [Lil Mads and the Gold Skull website][32]
@@ -163,65 +132,6 @@ x86, x64, ARM
 ## Additional terms
 
 [Roach Haus privacy policy][34]
-
-##  Related apps
-
-[
-
-![Logo][35]
-
-cave master
-
-Free
-
-6
-
-Games
-
-][36]
-
-[
-
-![Logo][37]
-
-Cave Miner
-
-Free
-
-No rating
-
-Games
-
-][38]
-
-[
-
-![Logo][39]
-
-Christmas Challenge
-
-Free
-
-1
-
-Games
-
-][40]
-
-[
-
-![Logo][41]
-
-Lil' Dragon
-
-$1.49
-
-No rating
-
-Games
-
-][42]
-
 [ ![Microsoft Corporation][43] ][44]
 
 © 2014 Microsoft
