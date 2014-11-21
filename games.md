@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 <div id="home" class="page-content wc-container">
 		</div>
